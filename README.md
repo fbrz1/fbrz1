@@ -4,6 +4,7 @@ My name is Fabrizio, I'm from Argentina and I'm Jr full-stack developer.
 
 - Graduated in the full-stack web developer career at [@SoyHenry](https://github.com/SoyHenry)
 - Currently studying the second year of computer engineering
+- Learning about back-end techonologies
 
 ## Skills
 
