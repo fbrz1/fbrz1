@@ -10,13 +10,12 @@ My name is Fabrizio, I'm from Argentina and I'm Jr full-stack developer.
 - Using JavaScript, NodeJS, ReactJS, PostgreSQL, HTML & CSS
 - Critical thinking, decision-making and problem solving skills
 - Some python coding
-- Soft skills
+- Soft skills: Critical thinking, problem-solving, teamwork & communication
 
 ## Contact
 <p align="left">
-<a href="https://linkedin.com/in/martin-horodeski-0691011a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martin-horodeski-0691011a3" height="30" width="40" /></a>
-<a href="https://fb.com/martin.horodeski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="martin.horodeski" height="30" width="40" /></a>
-<a href="https://instagram.com/martinhorodeski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="martinhorodeski" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fabrizio-alderete" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fabrizio-alderete" height="30" width="40" /></a>
+<a href="https://instagram.com/fabri__alderete" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fabrizioalderete" height="30" width="40" /></a>
 </p>
 
 ## Languages and Tools
