@@ -1,5 +1,5 @@
 ## Hello 👋
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fbrz1&label=Profile%20views&color=0e75b6&style=flat" alt="fbrz1" /> </p>
 My name is Fabrizio, I'm from Argentina and I'm Jr full-stack developer.
 
 - Graduated in the full-stack web developer career at [@SoyHenry](https://github.com/SoyHenry)
