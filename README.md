@@ -3,6 +3,13 @@ My name is Fabrizio, I'm from Argentina and I'm Jr full-stack developer.<br>🎓
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fbrz1&label=Profile%20views&color=0e75b6&style=flat" alt="fbrz1" /> </p>
 
+## Skills
+
+- Using JavaScript, NodeJS, ReactJS, PostgreSQL, HTML & CSS
+- Critical thinking, decision-making and problem solving skills
+- Some python coding
+- Soft skills: Critical thinking, problem-solving, teamwork & communication
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fabri__a) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fabrizio-alderete/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/channel/UC7A4dt-6JglxDoViVbkD3Ig) 
