@@ -10,6 +10,13 @@ My name is Fabrizio, I'm from Argentina and I'm Jr full-stack developer.<br>🎓
 - Some python coding
 - Soft skills: Critical thinking, problem-solving, teamwork & communication
 
+## Contact
+<p> Email: peloalder@gmail.com </p>
+<p align="left">
+<a href="https://linkedin.com/in/fabrizio-alderete" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fabrizio-alderete" height="30" width="40" /></a>
+<a href="https://instagram.com/fabri__a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fabrizioalderete" height="30" width="40" /></a>
+</p>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fabri__a) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fabrizio-alderete/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/channel/UC7A4dt-6JglxDoViVbkD3Ig) 
