@@ -15,8 +15,6 @@ My name is Fabrizio, I'm from Argentina and I'm Jr full-stack developer.<br>🎓
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=fbrz1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=fbrz1&icon=4&color=6)](https://visitcount.itsvg.in)
